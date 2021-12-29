@@ -6,4 +6,4 @@ Usage Instructions :
 
 1. Python notebooks that contain data analysis and modelling are located in the 'notebooks' folder
 2. 'artifacts' contains pickle files created during the training process as well as the model file
-3. 'reports' contains a basic DIDQ report on t
+3. 'reports' contains a basic DIDQ report on the raw data shared
